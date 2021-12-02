@@ -1,5 +1,4 @@
 # Registre-de-logs
-Tasca S05_T01
 
 **Pandas, GeoIP2, Plotly**
 
